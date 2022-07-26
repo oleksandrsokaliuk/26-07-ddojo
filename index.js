@@ -1,5 +1,5 @@
 const image = document.createElement("img");
-image.src = "./pngwing.png";
+image.src = "./pngwing1.png";
 const imageClass = document.querySelector(".another-class");
 imageClass.appendChild(image);
 image.style.width = "200px";
